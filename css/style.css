@@ -108,7 +108,7 @@ a:hover, a:focus, a:active, a:visited {
 
 
 .hero-header {
-	background: #016cc7;
+	background: #EFE2BA;
 	min-height: 600px;
 	padding: 5em;
 	color: #fff;
@@ -143,7 +143,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .feature span {
 	font-size: 5em;
-    color: #016cc7;
+    color: #EFE2BA;
 }
 
 .speaker .feature {
