@@ -316,6 +316,9 @@ ul.footer-menu li a:hover {
         text-align: center;
         margin-top: 30px;
     }
+    .hero-header .logo {
+        max-width: 400px;
+    }
 }
 
 
@@ -333,6 +336,9 @@ ul.footer-menu li a:hover {
     ul.footer-menu {
         margin-top: 0;
     }
+    .hero-header .logo {
+        max-width: 600px;
+    }
 }
 
 
@@ -342,5 +348,8 @@ ul.footer-menu li a:hover {
     .speaker .feature {
         width: 49%;
         margin-right: 9px;
+    }
+    .hero-header .logo {
+        max-width: 500px;
     }
 }
