@@ -130,8 +130,9 @@ a:hover, a:focus, a:active, a:visited {
 	margin-top: 3em;
 }
 .hero-header .rocket {
-	max-height: 10%;
+	max-height: 400px;
 }
+
 .me-row {
 	padding: 30px 0;
 }
