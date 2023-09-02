@@ -288,10 +288,7 @@ ul.footer-menu li a:hover {
     60% {transform: translateY(-15px);} 
 } 
 
-.bounce { 
-    -webkit-animation-name: bounce; 
-    animation-name: bounce; 
-}
+
 
 /* ========================================
     Custom Media Queries
@@ -303,7 +300,7 @@ ul.footer-menu li a:hover {
     .hero-header {
         padding: 3em 1em 1em 1em;
         text-align: center;
-        max-height: 550px;
+        max-height: 900px;
     }
     .speaker .feature {
         width: 100%
@@ -317,7 +314,7 @@ ul.footer-menu li a:hover {
         margin-top: 30px;
     }
     .hero-header .logo {
-        max-width: 200px;
+        width: 90%;
     }
 }
 
@@ -337,7 +334,7 @@ ul.footer-menu li a:hover {
         margin-top: 0;
     }
     .hero-header .logo {
-        max-width: 600px;
+        width: 90%;
     }
 }
 
@@ -350,6 +347,6 @@ ul.footer-menu li a:hover {
         margin-right: 9px;
     }
     .hero-header .logo {
-        max-width: 500px;
+        width: 90%;
     }
 }
