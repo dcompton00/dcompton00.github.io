@@ -90,9 +90,11 @@
     scroll-behavior: smooth;
   }
 }
+.bolded { 
+  font-weight: bold; }
 
 .textSkill {
-  color: rgb(240, 65, 65);
+  color: rgb(255, 255, 255);
 }
 
 .bg-image {
